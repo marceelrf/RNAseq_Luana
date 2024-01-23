@@ -1,0 +1,17 @@
+#NAME	SampleGroup
+X5_S3	Control
+G3_S13	Control
+G4_S14	Control
+X14_S5	EAO
+Gustavo_13_S11	EAO
+G11_S18	EAO
+G12_S19	EAO
+G15_S20	EAO
+X7_S4	SHAM_Trat
+X8_S22	SHAM_Trat
+Gustavo_9_S10	SHAM_Trat
+G6_S15	SHAM_Trat
+G10_S17	SHAM_Trat
+X16_S6	EAO_Trat
+X17_S7	EAO_Trat
+X19_S24	EAO_Trat
